@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**carlitador/carlitador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cdhainaut/cdhainaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlitador)](https://github.com/carlitador/github-readme-stats)
+[![charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdhainaut)](https://github.com/cdhainaut/github-readme-stats)

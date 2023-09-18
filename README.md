@@ -6,4 +6,7 @@ Ahoy! ⚓ I'm Charles Dhainaut, a naval engineer specializing in hydrodynamics a
 
 🌐 Dive deeper: [Personal Website](https://cdhainaut.github.io)
 
-[![charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlitador)](https://github.com/carlitador/github-readme-stats)
+-----
+![stats](https://github-readme-stats.vercel.app/api?username=cdhainaut&show_icons=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdhainaut&hide=HTML,CSS,SCSS,jupyter%20notebook,g-code&layout=compact)
+-----

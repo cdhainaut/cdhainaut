@@ -2,7 +2,7 @@ Ahoy! ⚓ I'm Charles Dhainaut, a naval engineer specializing in hydrodynamics a
 
 🛠️ Expertise: Hydrodynamics, Performance Optimization, Data Analysis, Machine Learning
 
-📧 Drop me a line at [ch.dhainaut@gmail.com](mailto:ch.dhainaut@gmail.com)
+📧 Drop me a line at [ch.dhainaut@gmail.com](mailto:ch.dhainaut@proton.me)
 
 🌐 Dive deeper: [Personal Website](https://cdhainaut.github.io)
 

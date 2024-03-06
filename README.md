@@ -1,10 +1,14 @@
-Ahoy! ⚓ I'm Charles Dhainaut, a naval engineer specializing in hydrodynamics and the optimization of high-speed yachts. My journey in the maritime domain is fueled by a curiosity for fluid dynamics and a relentless pursuit of designing vessels that ride the waves with unmatched efficiency.🌊
+Hello, I'm Charles Dhainaut, a Naval Engineer with a focus on hydrodynamics and high-speed yacht optimization.
 
-🛠️ Expertise: Hydrodynamics, Performance Optimization, Data Analysis, Machine Learning
+🛠️ Skills & Expertise:
+- Hydrodynamics: Understanding the behavior of fluids and their interaction with marine vessels.
+- Performance Optimization: Enhancing vessel performance in terms of speed, stability, and fuel efficiency.
+- Data Analysis: Extracting valuable insights from complex data sets.
+- Machine Learning: Utilizing algorithms for performance prediction and optimization.
 
-📧 Drop me a line at [ch.dhainaut@gmail.com](mailto:ch.dhainaut@proton.me)
+📧 Feel free to reach out to me at ch.dhainaut@proton.me
 
-🌐 Dive deeper: [Personal Website](https://cdhainaut.github.io)
+🌐 Explore further: https://cdhainaut.github.io
 
 -----
 ![stats](https://github-readme-stats.vercel.app/api?username=cdhainaut&show_icons=true&count_private=true)

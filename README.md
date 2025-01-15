@@ -1,6 +1,6 @@
 Hello, I'm Charles Dhainaut, a Naval Engineer with a focus on hydrodynamics and high-speed yacht optimization.
 
-📧 Feel free to reach out to me at ch.dhainaut@proton.me
+📧 Reach me out to me at ch.dhainaut@proton.me
 
 🌐 Explore further: https://cdhainaut.github.io
 
